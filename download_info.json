@@ -1,7 +1,12 @@
 {
   "voices": {
-    "Kiritan": {
+    "Yoko": {
       "id": "1ZTMDkelxW68RqypuUWUdiHxa9g_PZvBW",
+      "zip": "謡子 (NEUTRINO-Library) -v2.7.0.basic.zip ",
+      "folder": "YOKO"
+    },
+    "Kiritan": {
+      "id": "1Xf6qFDJmD5TcXystSBblPr8sQCCmZRQc",
       "zip": "東北きりたん (NEUTRINO-Library) -v2.7.0.zip",
       "folder": "KIRITAN"
     },
@@ -64,7 +69,7 @@
   "neutrino": {
     "version": "2.7.0",
     "id": "1NB-3yTATXUF0U2k-k68ZGinHoKVKo4P-",
-    "zip": "NEUTRINO-online-v2.7.0.zip",
+    "zip": "NEUTRINO-Online-v2.7.0.zip",
     "folder": "NEUTRINO"
   }
 }
