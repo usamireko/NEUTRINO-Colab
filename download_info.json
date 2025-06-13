@@ -1,0 +1,70 @@
+{
+  "voices": {
+    "Kiritan": {
+      "id": "1ZTMDkelxW68RqypuUWUdiHxa9g_PZvBW",
+      "zip": "東北きりたん (NEUTRINO-Library) -v2.7.0.zip",
+      "folder": "KIRITAN"
+    },
+    "Nakumo": {
+      "id": "19vvc3De8i7JDKY9u95B8w5DV4Nyp2OKC",
+      "zip": "ナクモ (NEUTRINO-Library) -v2.7.1.zip",
+      "folder": "NAKUMO"
+    },
+    "Tohoku Zunko": {
+      "id": "1MYDTeiqdf2207mQdfGWtoREvDgHQRCtZ",
+      "zip": "東北ずん子 (NEUTRINO-Library) -v2.7.0.zip",
+      "folder": "ZUNKO"
+    },
+    "Tohoku Itako": {
+      "id": "1AjI7uUAIFK7cAAdGSWsv0mGRQJJvMcnE",
+      "zip": "東北きりたん (NEUTRINO-Library) -v2.7.0.zip",
+      "folder": "ITAKO"
+    },
+    "Oedo Ochanko": {
+      "id": "19vvc3De8i7JDKY9u95B8w5DV4Nyp2OKC",
+      "zip": "大江戸ちゃんこ (NEUTRINO-Library) -v2.7.2.zip",
+      "folder": "OCHANKO"
+    },
+    "Shikoku Metan": {
+      "id": "1ny3z8ZCAcJ1aAR0NeQ86z7410mzIJU6h",
+      "zip": "四国めたん (NEUTRINO-Library) -v2.7.2.zip",
+      "folder": "METAN"
+    },
+    "Runo": {
+      "id": "1SbiI2bUObuVhL8VQsfgZQSetxw5prGGi",
+      "zip": "ルノ (NEUTRINO-Library) -v2.7.1.zip",
+      "folder": "RUNO"
+    },
+    "Merrow": {
+      "id": "1Kx2s1e_vsf_lxGvyB3r85GHoAEBVNd2i",
+      "zip": "めろう (NEUTRINO-Library) -v2.7.1.zip",
+      "folder": "MERROW"
+    },
+    "Soma": {
+      "id": "1bXoNCIAa9dUtothOzHM_sdr7eycrnTDa",
+      "zip": "めろう (NEUTRINO-Library) -v2.7.1.zip",
+      "folder": "SOMA"
+    },
+    "Zundamon": {
+      "id": "1M-WV-_bjJaDSmdbsl4S5YU7Iu9mZuSfM",
+      "zip": "ずんだもん (NEUTRINO-Library) -v2.7.1.zip",
+      "folder": "ZUNDAMON"
+    },
+    "Seven": {
+      "id": "13Do7kt5wxVEPHG01utsA59kbwoOCkpQ7",
+      "zip": "No.7 (NEUTRINO-Library) -v2.7.0.zip",
+      "folder": "SEVEN"
+    },
+    "JSUT": {
+      "id": "1PcZyZBXLdXVZwRDVQA1GBz5hAweyble1",
+      "zip": "JSUT (NEUTRINO-Library) -v2.7.0.zip",
+      "folder": "JSUT"
+    }
+  },
+  "neutrino": {
+    "version": "2.7.0",
+    "id": "1NB-3yTATXUF0U2k-k68ZGinHoKVKo4P-",
+    "zip": "NEUTRINO-Online-v2.7.0.zip",
+    "folder": "NEUTRINO"
+  }
+}
